@@ -1,4 +1,4 @@
-//AMANDED
+//AMENDED
 public class CH2_EX31 {
     public static void main(String[] args){
 
